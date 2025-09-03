@@ -5,7 +5,7 @@ A simple and detailed guide to run a Minecraft Java server on your non-rooted An
 
 - [Termux](https://f-droid.org/packages/com.termux/) - **Do not** install the Google Play version, it is severely outdated.
 
-- [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) Needed in order to manage your server easier without `cp`, `ls` and `mv` commands.
+- [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files) - Needed in order to manage your server easier without `cp`, `ls` and `mv` commands.
 
 - Android phone with <ins>**Android 11 and up**</ins> installed and *at least* <ins>**4GB of RAM**</ins> (*recommended for a stable small server experience*).
 
